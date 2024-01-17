@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vedhavyas/go-subkey/v2"
+	"github.com/vedhavyas/go-subkey"
 )
 
 func fromHex(t *testing.T, hex string) []byte {
